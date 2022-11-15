@@ -14,6 +14,21 @@ Ce Dépôt sert d'exercice pour le tp test du module R108. Les sujets ont été 
 3. ./arbre.sh
 ```
 
+##### Les commandes à éxecuter sur ish shell (ios): 
+
+```
+1. apk update && apk add tree
+2. cd testR108 && chmod u+x arbre.sh
+3. ./arbre.sh
+```
+##### Les commandes à éxecuter sur termux (android) : 
+
+```
+1. apt update && apt install tree
+2. cd testR108 && chmod u+x arbre.sh
+3. ./arbre.sh
+```
+
 ## Le sujet creationFicRep.sh :
 
 <p>Le programme doit créer un nombre voulu de répertoire ainsi qu'un nombre voulu de fichier.</p>
