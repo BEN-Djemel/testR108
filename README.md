@@ -39,7 +39,6 @@
 
 <p>Le programme doit créer un nombre voulu de répertoire ainsi qu'un nombre voulu de fichier.</p>
 
-### Une fois avoir installer les paquets tree et git (voir au dessus) :
 #### Pour lancer le programme : 
 ```
 1. cd testR108 && chmod u+x creationFicRep.sh
