@@ -29,8 +29,9 @@ Ce Dépôt sert d'exercice pour le tp test du module R108. Les sujets ont été 
 
 <p>Le programme doit créer un nombre voulu de répertoire ainsi qu'un nombre voulu de fichier.</p>
 
-##### Une fois avoir installer les paquets tree et git (voir au dessus) :
-### Pour lancer le programme : 
+### Une fois avoir installer les paquets tree et git (voir au dessus) :
+#### Pour lancer le programme : 
+```
 2. git clone https://github.com/BEN-Djemel/testR108.git
 3. cd testR108 && chmod u+x creationFicRep.sh
 4. ./creationFicRep.sh
