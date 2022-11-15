@@ -7,20 +7,20 @@
 ##### Les commandes à éxecuter : 
 
 ```
-1. sudo apt update && sudo apt install tree git
+1. sudo apt update && sudo apt install tree git -y
 2. git clone https://github.com/BEN-Djemel/testR108.git
 ```
 
 ##### Les commandes à éxecuter sur ish shell (ios): 
 
 ```
-1. apk update && apk add tree git
+1. apk update && apk add tree git -y
 2. git clone https://github.com/BEN-Djemel/testR108.git
 ```
 ##### Les commandes à éxecuter sur termux (android) : 
 
 ```
-1. apt update && apt install tree git
+1. apt update && apt install tree git -y
 2. git clone https://github.com/BEN-Djemel/testR108.git
 ```
 
