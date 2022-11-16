@@ -66,3 +66,14 @@
 1. cd testR108 && chmod u+x compteurVitry.sh
 2. ./compteurVitry.sh
 ```
+
+## Le sujet recup.sh :
+
+<p>Le programme recup.sh doit créer un dossier "backup" qui copie un fichier donné en premier paramètre, vers ce dossier "backup". On attends aussi un deuxième paramètre qui puisse permettre de renommer le fichier une fois dans le dossier.</p>
+
+### Pour lancer le programme :
+
+```
+1. cd testR108 && chmod u+x recup.sh
+2. ./recup.sh
+```
