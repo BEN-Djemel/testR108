@@ -44,3 +44,25 @@
 1. cd testR108 && chmod u+x creationFicRep.sh
 2. ./creationFicRep.sh
 ```
+
+## Le sujet 2arbre.sh :
+
+<p>Le programme 2arbre.sh doit créer une arborescance bien spécifique sous la forme : A dossier père, B C D E sont des dossier fils, et chaque dossier C D possède un fichier fille nommé 1. Ensuite afficher cette arborescance, le tout en 2 lignes.</p>
+
+### Pour lancer le programme :
+
+```
+1. cd testR108 && chmod u+x 2arbre.sh
+2. ./2arbre.sh
+```
+
+## Le sujet compteurVitry.sh :
+
+<p>Le programme compteurVitry.sh doit compter le nombre de fois le terme "vitry" contenu dans un fichier. J'ai rajouté le fait de demander un fichier afin que le programme soit polyvalent.</p>
+
+### Pour lancer le programme :
+
+```
+1. cd testR108 && chmod u+x compteurVitry.sh
+2. ./compteurVitry.sh
+```
