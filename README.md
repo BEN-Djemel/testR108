@@ -1,6 +1,6 @@
 # testR108
 
-<p>Ce Dépôt sert d'exercice pour le tp test du module R108. Les sujets ont été donner par un membre anonyme des services secret de l'iut.</p>
+<p>Ce Dépôt sert d'exercice pour le tp test du module R108. Les sujets ont été donné par un membre anonyme des services secret de l'iut.</p>
 
 ## Pour pouvoir installer le git il faudra faire :
 
